@@ -45,3 +45,4 @@
   <li><strong>Multi-Agent Gameplay</strong>: Expanding the game to feature two AI agents playing against each other using competitive reinforcement learning.</li>
   <li><strong>Improved Environment Interaction</strong>: Exploring more complex environments and introducing different variations of the Pong game to improve AI versatility.</li>
 </ul>
+<a href="https://github.com/jarugupj/NeuroPlay-AI-Project/blob/main/UCAI%20Phani%20Bharadwaj%20Jarugumilli.docx" target="_blank">Download the document</a>
