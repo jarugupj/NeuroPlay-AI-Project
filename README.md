@@ -1,7 +1,6 @@
 # NeuroPlay-AI-Project
 
 <div style="overflow: hidden;">
-  <img src="https://github.com/user-attachments/assets/0b8fe695-ebf3-4d80-aa07-275a2f05c4db" alt="NeuroPlay Logo" width="400" height="400" style="float: left; margin-right: 20px;"/>
   <img src="rewards_and_running_mean.png" alt="Rewards Chart" width="600" height="400" style="float: left; margin-left: 20px;"/>
 </div>
 
